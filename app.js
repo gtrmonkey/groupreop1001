@@ -1,1 +1,1 @@
-const prentend = true;
+const pretend = true;
